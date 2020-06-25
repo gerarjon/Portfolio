@@ -1,0 +1,34 @@
+[
+  {
+    "title" : "Meme House",
+    "github" :  "https://github.com/madeleineprak/Meme-House",
+    "link" : "https://meme-house-ggm.herokuapp.com/",
+    "image" : "meme-house.png",
+    "logo" : "meme-house-logo.png",
+    "id" : 1
+  },
+  {
+    "title" : "Twice Clicky Game",
+    "github" : "https://github.com/gerarjon/twice-clicky-game",
+    "link" : "https://gerarjon.github.io/twice-clicky-game",
+    "image" : "clicky-game.gif",
+    "logo" : "clicky-game-logo.png",
+    "id" : 2
+  },
+  {
+    "title" : "Grouper",
+    "github" : "https://github.com/sjconst/mvc-group-project",
+    "link": "https://pure-meadow-76725.herokuapp.com/",
+    "image" : "grouper-gif.gif",
+    "logo" : "grouper-logo.png",
+    "id" : 3
+  },
+  {
+    "title" : "Quang's Burgers",
+    "github" : "https://github.com/gerarjon/FriendFinder",
+    "link" : "https://friendfinder-gs.herokuapp.com/",
+    "image" : "burger.png",
+    "logo" : "burger-logo.png",
+    "id" : 4
+  }
+]

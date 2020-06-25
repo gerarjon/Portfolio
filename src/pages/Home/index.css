@@ -1,0 +1,21 @@
+.hero .title {
+  font-size: 1.5rem;
+}
+.hero .subtitle {
+  font-size: 2.75rem;
+  font-weight: 500;
+}
+
+.hero .subtitle:not(:last-child) {
+  margin-bottom: 0!important;
+}
+
+.hero-body .tabs li a {
+  color: rgb(90, 0, 163);
+  transition: all .3s ease-in-out;
+}
+
+.hero-body .tabs li a:hover , .tabs li a:focus{
+  color: rgb(90, 0, 163);
+  transform: scale(1.2);
+}
